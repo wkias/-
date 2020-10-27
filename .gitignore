@@ -1,5 +1,5 @@
 code/catboost_info
 features/*.csv
-train/*.csv
+features/cat_cols_expand
 *.pdf
-submit.csv
+evaluate.csv

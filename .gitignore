@@ -1,0 +1,5 @@
+code/catboost_info
+features/*.csv
+train/*.csv
+*.pdf
+submit.csv
